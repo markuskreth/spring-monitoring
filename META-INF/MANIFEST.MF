@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Kreth Server Monitoring
+Main-Class: de.kreth.experimental.spring.monitoring.MonitoringApplication
+
